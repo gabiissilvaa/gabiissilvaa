@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 💼 Atualmente estou trabalhando como desenvolvedora back-end;<br>- 📝 Estou focando meu aprendizado em Java com Springboot;<br>- 📚 Estudo na Unifavip Wyden e estou no 5° período;<br>- 👩🏻‍💻 Pronomes: Ela/Dela.</p>
+<p align="left">- 💼 Atualmente estou trabalhando como desenvolvedora back-end;<br>- 📝 Estou focando meu aprendizado em Java com Springboot;<br>- 📚 Estudo na Unifavip Wyden e estou no 5° período;<br></p>
 
 ###
 
