@@ -1,4 +1,4 @@
-<h2 align="left">Oiie! Me chamo Gabriela Borba!</h2>
+<h2 align="left">Oiie! Me chamo Gabriela!</h2>
 
 ###
 
