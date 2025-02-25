@@ -4,7 +4,9 @@
     <span> 🪐 Gabriela Borba</span>
 </h1>
 
-<p align="justify">A.
+<p align="justify"> Olá! Me chamo Gabriela Borba, sou estudante de Ciência da Computação e uma entusiasta da tecnologia apaixonada por desenvolvimento de software. Atualmente, estou focada em aprimorar minhas habilidades como back-end developer, mas com o objetivo de me tornar uma desenvolvedora full-stack.
+
+Tenho mais afinidade com Java, SQL e Spring Boot, porém, estou sempre explorando novas tecnologias e frameworks para expandir meus conhecimentos. Além disso, gosto de desafios que me tragam bons aprendizados!
 <br>
 </p>
 
