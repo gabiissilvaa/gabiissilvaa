@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://raw.githubusercontent.com/gabiiborba/gabiiborba/main/136469815_b5909471-bbfa-4841-8286-c836ab718095.jpg">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://raw.githubusercontent.com/gabiiborba/gabiiborba/main/136469815_b5909471-bbfa-4841-8286-c836ab718095-Photoroom.png">
 
 <h1>
     <span> 🪐 Gabriela Borba</span>
