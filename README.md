@@ -4,9 +4,9 @@
     <span> 🪐 Gabriela Borba</span>
 </h1>
 
-<p align="justify">Tech Education Analyst at DIO, post graduating at Software Development with Agile Methodology. My first "Hello World" was in pre-teens when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. 
+<p align="justify">A.
 <br>
-</a>.</p>
+</p>
 
 ### Connect with me
 
