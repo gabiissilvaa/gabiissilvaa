@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://raw.githubusercontent.com/gabiiborba/gabiiborba/main/136469815_b5909471-bbfa-4841-8286-c836ab718095-Photoroom.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://raw.githubusercontent.com/gabiiborba/gabiiborba/main/ilustracao-de-api-de-design-plano-desenhado-a-mao.png">
 
 <h1>
     <span> 🪐 Gabriela Silva</span>
