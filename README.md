@@ -17,36 +17,23 @@ Tenho mais afinidade com Java, SQL e Spring Boot, porém, estou sempre explorand
 
 ### 
 
-<div style="display: inline-block">
-  <span style="display: inline-block; background-color: black; padding: 5px; border-radius: 5px;">
-    <img align="center" alt="Gabriela-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="filter: invert(41%) sepia(92%) saturate(5331%) hue-rotate(280deg) brightness(95%) contrast(95%);">
-  </span>
-  
-  <span style="display: inline-block; background-color: black; padding: 5px; border-radius: 5px;">
-    <img align="center" alt="Gabriela-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="filter: invert(41%) sepia(92%) saturate(5331%) hue-rotate(280deg) brightness(95%) contrast(95%);">
-  </span>
-  
-  <span style="display: inline-block; background-color: black; padding: 5px; border-radius: 5px;">
-    <img align="center" alt="Gabriela-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="filter: invert(41%) sepia(92%) saturate(5331%) hue-rotate(280deg) brightness(95%) contrast(95%);">
-  </span>
-  
-  <span style="display: inline-block; background-color: black; padding: 5px; border-radius: 5px;">
-    <img align="center" alt="Gabriela-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="filter: invert(41%) sepia(92%) saturate(5331%) hue-rotate(280deg) brightness(95%) contrast(95%);">
-  </span>
-  
-  <span style="display: inline-block; background-color: black; padding: 5px; border-radius: 5px;">
-    <img align="center" alt="Gabriela-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="filter: invert(41%) sepia(92%) saturate(5331%) hue-rotate(280deg) brightness(95%) contrast(95%);">
-  </span>
-  
-  <span style="display: inline-block; background-color: black; padding: 5px; border-radius: 5px;">
-    <img align="center" alt="Gabriela-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="filter: invert(41%) sepia(92%) saturate(5331%) hue-rotate(280deg) brightness(95%) contrast(95%);">
-  </span>
-  
-  <span style="display: inline-block; background-color: black; padding: 5px; border-radius: 5px;">
-    <img align="center" alt="Gabriela-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="filter: invert(41%) sepia(92%) saturate(5331%) hue-rotate(280deg) brightness(95%) contrast(95%);">
+<div style="display: inline-block; margin-right: 10px;">
+  <span style="display: inline-block; background-color: black; padding: 10px; border-radius: 5px;">
+    <img align="center" alt="Java" height="40" width="40" src="caminho/para/java-icon.svg" style="filter: invert(38%) sepia(98%) saturate(2922%) hue-rotate(280deg) brightness(100%) contrast(100%);">
   </span>
 </div>
 
+<div style="display: inline-block; margin-right: 10px;">
+  <span style="display: inline-block; background-color: black; padding: 10px; border-radius: 5px;">
+    <img align="center" alt="Spring Boot" height="40" width="40" src="caminho/para/spring-boot-icon.svg" style="filter: invert(38%) sepia(98%) saturate(2922%) hue-rotate(280deg) brightness(100%) contrast(100%);">
+  </span>
+</div>
+
+<div style="display: inline-block;">
+  <span style="display: inline-block; background-color: black; padding: 10px; border-radius: 5px;">
+    <img align="center" alt="SQL" height="40" width="40" src="caminho/para/sql-icon.svg" style="filter: invert(38%) sepia(98%) saturate(2922%) hue-rotate(280deg) brightness(100%) contrast(100%);">
+  </span>
+</div>
 
 ### GitHub Stats
 
