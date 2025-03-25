@@ -1,7 +1,7 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://raw.githubusercontent.com/gabiiborba/gabiiborba/main/ilustracao-de-api-de-design-plano-desenhado-a-mao.png">
 
 <h1>
-    <span> Gabriela Silva</span>
+    <span> Bem-vindo ao meu portifólio!</span>
 </h1>
 
 <p align="justify"> Olá! Me chamo Gabriela, sou estudante de Ciência da Computação e uma entusiasta da tecnologia apaixonada por desenvolvimento de software. Atualmente, estou focada em aprimorar minhas habilidades como back-end developer, mas com o objetivo de me tornar uma desenvolvedora full-stack.
