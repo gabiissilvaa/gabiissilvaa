@@ -31,6 +31,11 @@ Tenho mais afinidade com Java, SQL e Spring Boot, porém, estou sempre explorand
   </span>
 </div>
 
+<span style="display: inline-block; background-color: black; padding: 10px; border-radius: 5px;">
+    <img align="center" alt="Gabriela-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" style="filter: invert(38%) sepia(98%) saturate(2922%) hue-rotate(280deg) brightness(100%) contrast(100%);">
+  </span>
+</div>
+
 ### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabiissilvaa&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
