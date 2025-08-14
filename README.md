@@ -37,6 +37,10 @@ Tenho mais afinidade com Java, SQL e Spring Boot, porém, estou sempre explorand
   <span style="display: inline-block; background-color: black; padding: 10px; border-radius: 5px;">
     <img align="center" alt="Gabriela-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="filter: invert(38%) sepia(98%) saturate(2922%) hue-rotate(280deg) brightness(100%) contrast(100%);">
   </span>
+
+  <span style="display: inline-block; background-color: black; padding: 10px; border-radius: 5px;">
+    <img align="center" alt="Gabriela-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="filter: invert(38%) sepia(98%) saturate(2922%) hue-rotate(280deg) brightness(100%) contrast(100%);">
+  </span>
 </div>
 
 <img src="https://raw.githubusercontent.com/gabiiborba/gabiiborba/output/snake.svg" alt="Snake animation" />
