@@ -17,29 +17,37 @@ Tenho mais afinidade com Java, SQL e Spring Boot, porém, estou sempre explorand
 
 ### 
 
+<h3>👩‍💻 𝐋𝐢𝐧𝐠𝐮𝐚𝐠𝐞𝐧𝐬</h3>
+
 <div style="display: inline-block">
   <span style="display: inline-block; background-color: black; padding: 10px; border-radius: 5px;">
     <img align="center" alt="Gabriela-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="filter: invert(38%) sepia(98%) saturate(2922%) hue-rotate(280deg) brightness(100%) contrast(100%);">
   </span>
-  
   <span style="display: inline-block; background-color: black; padding: 10px; border-radius: 5px;">
     <img align="center" alt="Gabriela-SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" style="filter: invert(38%) sepia(98%) saturate(2922%) hue-rotate(280deg) brightness(100%) contrast(100%);">
   </span>
-  
   <span style="display: inline-block; background-color: black; padding: 10px; border-radius: 5px;">
     <img align="center" alt="Gabriela-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="filter: invert(38%) sepia(98%) saturate(2922%) hue-rotate(280deg) brightness(100%) contrast(100%);">
   </span>
-
-  <span style="display: inline-block; background-color: black; padding: 10px; border-radius: 5px;">
-    <img align="center" alt="Gabriela-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" style="filter: invert(38%) sepia(98%) saturate(2922%) hue-rotate(280deg) brightness(100%) contrast(100%);">
-  </span>
-
   <span style="display: inline-block; background-color: black; padding: 10px; border-radius: 5px;">
     <img align="center" alt="Gabriela-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="filter: invert(38%) sepia(98%) saturate(2922%) hue-rotate(280deg) brightness(100%) contrast(100%);">
   </span>
-
   <span style="display: inline-block; background-color: black; padding: 10px; border-radius: 5px;">
     <img align="center" alt="Gabriela-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="filter: invert(38%) sepia(98%) saturate(2922%) hue-rotate(280deg) brightness(100%) contrast(100%);">
+  </span>
+</div>
+
+<h3>🛠️ 𝐅𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬</h3>
+
+<div>
+    <span style="display: inline-block; background-color: black; padding: 10px; border-radius: 5px;">
+    <img align="center" alt="Gabriela-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" style="filter: invert(38%) sepia(98%) saturate(2922%) hue-rotate(280deg) brightness(100%) contrast(100%);">
+  </span>
+    <span style="display: inline-block; background-color: black; padding: 10px; border-radius: 5px;">
+    <img align="center" alt="Gabriela-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" style="filter: invert(38%) sepia(98%) saturate(2922%) hue-rotate(280deg) brightness(100%) contrast(100%);">
+  </span>
+    <span style="display: inline-block; background-color: black; padding: 10px; border-radius: 5px;">
+    <img align="center" alt="Gabriela-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="filter: invert(38%) sepia(98%) saturate(2922%) hue-rotate(280deg) brightness(100%) contrast(100%);">
   </span>
 </div>
 
