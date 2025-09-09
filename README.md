@@ -11,7 +11,7 @@
 </div>
 
 <p align="justify"> 
-<h3>𝐔𝐦 𝐩𝐨𝐮𝐜𝐨 𝐬𝐨𝐛𝐫𝐞 𝐦𝐢𝐦:</h3> <br>
+<h4>𝐔𝐦 𝐩𝐨𝐮𝐜𝐨 𝐬𝐨𝐛𝐫𝐞 𝐦𝐢𝐦:</h4>
     • 💻 Sou estudante de Ciência da Computação apaixonada por tecnologia! <br>
     • 🔧 Atuo como desenvolvedora back-end mas também me aventuro no front-end <br>
     • 🌱 Sempre aprendendo coisas novas e me desafiando <br>
