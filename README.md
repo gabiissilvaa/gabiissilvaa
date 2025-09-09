@@ -17,7 +17,6 @@
     • 🌱 Sempre aprendendo coisas novas e me desafiando <br>
     • 🎯 Meu objetivo é me tornar uma desenvolvedora full-stack completa <br>
     • ✨ Acredito que os melhores projetos surgem de bons aprendizados <br>
-<br>
 </p>
 
 ### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞
