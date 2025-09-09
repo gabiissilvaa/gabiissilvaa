@@ -1,7 +1,7 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://raw.githubusercontent.com/gabiiborba/gabiiborba/main/ilustracao-de-api-de-design-plano-desenhado-a-mao.png">
 
 <h1>
-    <span> 𝐁𝐞𝐦-𝐯𝐢𝐧𝐝𝐨(𝐚) 𝐚𝐨 𝐦𝐞𝐮 𝐩𝐨𝐫𝐭𝐟ó𝐥𝐢𝐨! 👋🏼</span>
+    <span> 𝐁𝐞𝐦-𝐯𝐢𝐧𝐝𝐨(𝐚) 𝐚𝐨 𝐦𝐞𝐮 𝐩𝐨𝐫𝐭𝐟ó𝐥𝐢𝐨!</span>
 </h1>
 
 <div align="center">
