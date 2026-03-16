@@ -29,15 +29,6 @@
 <h3>👩‍💻 𝐋𝐢𝐧𝐠𝐮𝐚𝐠𝐞𝐧𝐬 𝐞 𝐅𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬</h3>
 
 <div align="left">
-  <!-- Linguagens -->
-  <h4>𝐋𝐢𝐧𝐠𝐮𝐚𝐠𝐞𝐧𝐬</h4>
-  <span>
-    <img alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  </span>
-  
   <!-- Back-end -->
   <h4>𝐁𝐚𝐜𝐤-𝐞𝐧𝐝</h4>
   <span>
@@ -55,13 +46,22 @@
     <img alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </span>
-</div>
 
-<h4>𝐅𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬</h4>
+  <h4>𝐅𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬</h4>
 <span>
     <img alt="Postman" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
     <img alt="GIt" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img alt="IntelliJ" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+    <img alt="IntelliJ" height="40" width="40" src="https://cdn.simpleicons.org/n8n">
 </span>
+
+<h4>𝐁𝐚𝐧𝐜𝐨 𝐝𝐞 𝐝𝐚𝐝𝐨𝐬</h4>
+<span>
+    <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img alt="SQLite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+</span>
+</div>
 
 <img src="https://raw.githubusercontent.com/gabiiborba/gabiiborba/output/snake.svg" alt="Snake animation" />
